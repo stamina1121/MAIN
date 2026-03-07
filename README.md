@@ -1,6 +1,4 @@
-# MAIN
-
-本仓库内容已清理。
+# MAIN: Mutual Alignment Is Necessary for instruction tuning
 
 该文章的具体代码路径详情见：
-https://github.com/microsoft/MAIN_
+”https://github.com/microsoft/MAIN_“
